@@ -5,8 +5,10 @@ class program
     {
         //FlipCoin flip = new FlipCoin();
         //flip.flip();
-        LeapYear leap = new LeapYear();
-        leap.check();
+        // LeapYear leap = new LeapYear();
+        //leap.check();
+        PowerOfTwo powerOf = new PowerOfTwo();
+        powerOf.power();
 
     }
 }
