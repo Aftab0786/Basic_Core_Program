@@ -17,7 +17,9 @@ class program
        // quotientRemainder.Calculation();
        //SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
         //swapTwoNumber.swap();
-        EvenOdd evenOdd = new EvenOdd();
-        evenOdd.CheckEvenOdd();
+       // EvenOdd evenOdd = new EvenOdd();
+        //evenOdd.CheckEvenOdd();
+        VowelConstant vowelConstant = new VowelConstant();
+        vowelConstant.CheckVowelConstan();
     }
 }
