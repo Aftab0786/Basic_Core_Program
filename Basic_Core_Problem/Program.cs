@@ -13,7 +13,9 @@ class program
         //harmonicNumber.Harmonic();
         // Factors factors = new Factors();
         //factors.Calculate();
-        QuotientRemainder quotientRemainder = new QuotientRemainder();
-        quotientRemainder.Calculation();
+        //QuotientRemainder quotientRemainder = new QuotientRemainder();
+       // quotientRemainder.Calculation();
+       SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
+        swapTwoNumber.swap();
     }
 }
