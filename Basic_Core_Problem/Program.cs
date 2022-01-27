@@ -19,7 +19,10 @@ class program
         //swapTwoNumber.swap();
        // EvenOdd evenOdd = new EvenOdd();
         //evenOdd.CheckEvenOdd();
-        VowelConstant vowelConstant = new VowelConstant();
-        vowelConstant.CheckVowelConstan();
+        //VowelConstant vowelConstant = new VowelConstant();
+        //vowelConstant.CheckVowelConstan();
+        LargestNumber largestNumber = new LargestNumber();
+        largestNumber.checkNumber();
+
     }
 }
