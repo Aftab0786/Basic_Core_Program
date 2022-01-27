@@ -15,7 +15,9 @@ class program
         //factors.Calculate();
         //QuotientRemainder quotientRemainder = new QuotientRemainder();
        // quotientRemainder.Calculation();
-       SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
-        swapTwoNumber.swap();
+       //SwapTwoNumber swapTwoNumber = new SwapTwoNumber();
+        //swapTwoNumber.swap();
+        EvenOdd evenOdd = new EvenOdd();
+        evenOdd.CheckEvenOdd();
     }
 }
