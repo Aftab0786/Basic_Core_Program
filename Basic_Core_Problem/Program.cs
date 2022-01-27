@@ -9,8 +9,9 @@ class program
         //leap.check();
         //PowerOfTwo powerOf = new PowerOfTwo();
        // powerOf.power();
-       HarmonicNumber harmonicNumber = new HarmonicNumber();
-        harmonicNumber.Harmonic();
-
+      // HarmonicNumber harmonicNumber = new HarmonicNumber();
+        //harmonicNumber.Harmonic();
+        Factors factors = new Factors();
+        factors.Calculate();
     }
 }
