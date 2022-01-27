@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Basic_Core_Problem;
+class program
+{
+    static void Main(string[] args)
+    {
+        FlipCoin flip = new FlipCoin();
+        flip.flip();
+
+    }
+}
