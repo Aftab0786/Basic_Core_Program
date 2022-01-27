@@ -7,8 +7,10 @@ class program
         //flip.flip();
         // LeapYear leap = new LeapYear();
         //leap.check();
-        PowerOfTwo powerOf = new PowerOfTwo();
-        powerOf.power();
+        //PowerOfTwo powerOf = new PowerOfTwo();
+       // powerOf.power();
+       HarmonicNumber harmonicNumber = new HarmonicNumber();
+        harmonicNumber.Harmonic();
 
     }
 }
